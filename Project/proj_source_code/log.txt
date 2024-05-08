@@ -1,0 +1,580 @@
+Experiment Number: 1
+Parameters Chosen:
+	Number of Layers: 3
+	Number of Input Neurons: 1
+	Number of Hidden Recurrent Neurons: 5
+	Number of Output Neurons: 1
+	Activation Function: sigmoid
+	Loss Function: Mean Square Error
+	Learning Rate: 0.015
+	Number of epochs: 10
+	Number of time steps: 10
+Results:
+	Train/Test Split: 20.0% : 80.0%
+	Length of train: 9048
+	Length of test: 36194
+	Loss of Testing before Training: 0.34282492042674195
+	Loss of Training: 0.0019070871276381058
+	Loss of Testing: 0.0008561030437885237
+------------------------------------------------------------------------------------------
+
+Experiment Number: 2
+Parameters Chosen:
+	Number of Layers: 3
+	Number of Input Neurons: 1
+	Number of Hidden Recurrent Neurons: 20
+	Number of Output Neurons: 1
+	Activation Function: sigmoid
+	Loss Function: Mean Square Error
+	Learning Rate: 0.015
+	Number of epochs: 10
+	Number of time steps: 10
+Results:
+	Train/Test Split: 20.0% : 80.0%
+	Length of train: 9048
+	Length of test: 36194
+	Loss of Testing before Training: 1.1230528318128838
+	Loss of Training: 0.0015754931924538687
+	Loss of Testing: 0.0006429730946724235
+------------------------------------------------------------------------------------------
+
+Experiment Number: 3
+Parameters Chosen:
+	Number of Layers: 3
+	Number of Input Neurons: 1
+	Number of Hidden Recurrent Neurons: 50
+	Number of Output Neurons: 1
+	Activation Function: sigmoid
+	Loss Function: Mean Square Error
+	Learning Rate: 0.015
+	Number of epochs: 10
+	Number of time steps: 10
+Results:
+	Train/Test Split: 20.0% : 80.0%
+	Length of train: 9048
+	Length of test: 36194
+	Loss of Testing before Training: 0.03602903928047701
+	Loss of Training: 0.0014463657646129717
+	Loss of Testing: 0.0011694935041687345
+------------------------------------------------------------------------------------------
+
+Experiment Number: 4
+Parameters Chosen:
+	Number of Layers: 3
+	Number of Input Neurons: 1
+	Number of Hidden Recurrent Neurons: 5
+	Number of Output Neurons: 1
+	Activation Function: sigmoid
+	Loss Function: Mean Square Error
+	Learning Rate: 0.001
+	Number of epochs: 10
+	Number of time steps: 10
+Results:
+	Train/Test Split: 20.0% : 80.0%
+	Length of train: 9048
+	Length of test: 36194
+	Loss of Testing before Training: 0.4909565593621851
+	Loss of Training: 0.015258497462922451
+	Loss of Testing: 0.001260958748869643
+------------------------------------------------------------------------------------------
+
+Experiment Number: 5
+Parameters Chosen:
+	Number of Layers: 3
+	Number of Input Neurons: 1
+	Number of Hidden Recurrent Neurons: 20
+	Number of Output Neurons: 1
+	Activation Function: sigmoid
+	Loss Function: Mean Square Error
+	Learning Rate: 0.001
+	Number of epochs: 10
+	Number of time steps: 10
+Results:
+	Train/Test Split: 20.0% : 80.0%
+	Length of train: 9048
+	Length of test: 36194
+	Loss of Testing before Training: 0.1830211177861392
+	Loss of Training: 0.013884922135394065
+	Loss of Testing: 0.0008049402678402325
+------------------------------------------------------------------------------------------
+
+Experiment Number: 6
+Parameters Chosen:
+	Number of Layers: 3
+	Number of Input Neurons: 1
+	Number of Hidden Recurrent Neurons: 50
+	Number of Output Neurons: 1
+	Activation Function: sigmoid
+	Loss Function: Mean Square Error
+	Learning Rate: 0.001
+	Number of epochs: 10
+	Number of time steps: 10
+Results:
+	Train/Test Split: 20.0% : 80.0%
+	Length of train: 9048
+	Length of test: 36194
+	Loss of Testing before Training: 0.4247588940352638
+	Loss of Training: 0.009534982496178459
+	Loss of Testing: 0.0006646689196228319
+------------------------------------------------------------------------------------------
+
+Experiment Number: 7
+Parameters Chosen:
+	Number of Layers: 3
+	Number of Input Neurons: 1
+	Number of Hidden Recurrent Neurons: 5
+	Number of Output Neurons: 1
+	Activation Function: sigmoid
+	Loss Function: Mean Square Error
+	Learning Rate: 0.01
+	Number of epochs: 10
+	Number of time steps: 10
+Results:
+	Train/Test Split: 20.0% : 80.0%
+	Length of train: 9048
+	Length of test: 36194
+	Loss of Testing before Training: 0.4553994602662553
+	Loss of Training: 0.0022149149685582723
+	Loss of Testing: 0.0006621107541429842
+------------------------------------------------------------------------------------------
+
+Experiment Number: 8
+Parameters Chosen:
+	Number of Layers: 3
+	Number of Input Neurons: 1
+	Number of Hidden Recurrent Neurons: 20
+	Number of Output Neurons: 1
+	Activation Function: sigmoid
+	Loss Function: Mean Square Error
+	Learning Rate: 0.01
+	Number of epochs: 10
+	Number of time steps: 10
+Results:
+	Train/Test Split: 20.0% : 80.0%
+	Length of train: 9048
+	Length of test: 36194
+	Loss of Testing before Training: 0.09909999174153791
+	Loss of Training: 0.0019263552936227045
+	Loss of Testing: 0.0006678549819747391
+------------------------------------------------------------------------------------------
+
+Experiment Number: 9
+Parameters Chosen:
+	Number of Layers: 3
+	Number of Input Neurons: 1
+	Number of Hidden Recurrent Neurons: 50
+	Number of Output Neurons: 1
+	Activation Function: sigmoid
+	Loss Function: Mean Square Error
+	Learning Rate: 0.01
+	Number of epochs: 10
+	Number of time steps: 10
+Results:
+	Train/Test Split: 20.0% : 80.0%
+	Length of train: 9048
+	Length of test: 36194
+	Loss of Testing before Training: 0.39961591329458784
+	Loss of Training: 0.0016287754663112932
+	Loss of Testing: 0.0006809121226580853
+------------------------------------------------------------------------------------------
+
+Experiment Number: 10
+Parameters Chosen:
+	Number of Layers: 3
+	Number of Input Neurons: 1
+	Number of Hidden Recurrent Neurons: 5
+	Number of Output Neurons: 1
+	Activation Function: tanh
+	Loss Function: Mean Square Error
+	Learning Rate: 0.015
+	Number of epochs: 10
+	Number of time steps: 10
+Results:
+	Train/Test Split: 20.0% : 80.0%
+	Length of train: 9048
+	Length of test: 36194
+	Loss of Testing before Training: 0.44427171257951953
+	Loss of Training: 0.0015787763793780444
+	Loss of Testing: 0.0014451391163698157
+------------------------------------------------------------------------------------------
+
+Experiment Number: 11
+Parameters Chosen:
+	Number of Layers: 3
+	Number of Input Neurons: 1
+	Number of Hidden Recurrent Neurons: 20
+	Number of Output Neurons: 1
+	Activation Function: tanh
+	Loss Function: Mean Square Error
+	Learning Rate: 0.015
+	Number of epochs: 10
+	Number of time steps: 10
+Results:
+	Train/Test Split: 20.0% : 80.0%
+	Length of train: 9048
+	Length of test: 36194
+	Loss of Testing before Training: 0.35264733531192893
+	Loss of Training: 0.03712999180670048
+	Loss of Testing: 0.02288454673233864
+------------------------------------------------------------------------------------------
+
+Experiment Number: 12
+Parameters Chosen:
+	Number of Layers: 3
+	Number of Input Neurons: 1
+	Number of Hidden Recurrent Neurons: 50
+	Number of Output Neurons: 1
+	Activation Function: tanh
+	Loss Function: Mean Square Error
+	Learning Rate: 0.015
+	Number of epochs: 10
+	Number of time steps: 10
+Results:
+	Train/Test Split: 20.0% : 80.0%
+	Length of train: 9048
+	Length of test: 36194
+	Loss of Testing before Training: 0.4953675836399428
+	Loss of Training: 0.12685417166741658
+	Loss of Testing: 0.4755405102232874
+------------------------------------------------------------------------------------------
+
+Experiment Number: 13
+Parameters Chosen:
+	Number of Layers: 3
+	Number of Input Neurons: 1
+	Number of Hidden Recurrent Neurons: 5
+	Number of Output Neurons: 1
+	Activation Function: tanh
+	Loss Function: Mean Square Error
+	Learning Rate: 0.001
+	Number of epochs: 10
+	Number of time steps: 10
+Results:
+	Train/Test Split: 20.0% : 80.0%
+	Length of train: 9048
+	Length of test: 36194
+	Loss of Testing before Training: 0.2743475548135688
+	Loss of Training: 0.004102078299718588
+	Loss of Testing: 0.0008435973559582852
+------------------------------------------------------------------------------------------
+
+Experiment Number: 14
+Parameters Chosen:
+	Number of Layers: 3
+	Number of Input Neurons: 1
+	Number of Hidden Recurrent Neurons: 20
+	Number of Output Neurons: 1
+	Activation Function: tanh
+	Loss Function: Mean Square Error
+	Learning Rate: 0.001
+	Number of epochs: 10
+	Number of time steps: 10
+Results:
+	Train/Test Split: 20.0% : 80.0%
+	Length of train: 9048
+	Length of test: 36194
+	Loss of Testing before Training: 0.49677551665767833
+	Loss of Training: 0.02034226258472395
+	Loss of Testing: 0.01798453772142755
+------------------------------------------------------------------------------------------
+
+Experiment Number: 15
+Parameters Chosen:
+	Number of Layers: 3
+	Number of Input Neurons: 1
+	Number of Hidden Recurrent Neurons: 50
+	Number of Output Neurons: 1
+	Activation Function: tanh
+	Loss Function: Mean Square Error
+	Learning Rate: 0.001
+	Number of epochs: 10
+	Number of time steps: 10
+Results:
+	Train/Test Split: 20.0% : 80.0%
+	Length of train: 9048
+	Length of test: 36194
+	Loss of Testing before Training: 0.5269862291039838
+	Loss of Training: 0.025912202946122006
+	Loss of Testing: 0.02058564333942026
+------------------------------------------------------------------------------------------
+
+Experiment Number: 16
+Parameters Chosen:
+	Number of Layers: 3
+	Number of Input Neurons: 1
+	Number of Hidden Recurrent Neurons: 5
+	Number of Output Neurons: 1
+	Activation Function: tanh
+	Loss Function: Mean Square Error
+	Learning Rate: 0.01
+	Number of epochs: 10
+	Number of time steps: 10
+Results:
+	Train/Test Split: 20.0% : 80.0%
+	Length of train: 9048
+	Length of test: 36194
+	Loss of Testing before Training: 0.2920091705735042
+	Loss of Training: 0.001509315539504511
+	Loss of Testing: 0.0016935097207313925
+------------------------------------------------------------------------------------------
+
+Experiment Number: 17
+Parameters Chosen:
+	Number of Layers: 3
+	Number of Input Neurons: 1
+	Number of Hidden Recurrent Neurons: 20
+	Number of Output Neurons: 1
+	Activation Function: tanh
+	Loss Function: Mean Square Error
+	Learning Rate: 0.01
+	Number of epochs: 10
+	Number of time steps: 10
+Results:
+	Train/Test Split: 20.0% : 80.0%
+	Length of train: 9048
+	Length of test: 36194
+	Loss of Testing before Training: 0.32757732786894783
+	Loss of Training: 0.024042724135815065
+	Loss of Testing: 0.02095517539398427
+------------------------------------------------------------------------------------------
+
+Experiment Number: 18
+Parameters Chosen:
+	Number of Layers: 3
+	Number of Input Neurons: 1
+	Number of Hidden Recurrent Neurons: 50
+	Number of Output Neurons: 1
+	Activation Function: tanh
+	Loss Function: Mean Square Error
+	Learning Rate: 0.01
+	Number of epochs: 10
+	Number of time steps: 10
+Results:
+	Train/Test Split: 20.0% : 80.0%
+	Length of train: 9048
+	Length of test: 36194
+	Loss of Testing before Training: 0.5303790915054003
+	Loss of Training: 0.05891934710514859
+	Loss of Testing: 0.06928867392805631
+------------------------------------------------------------------------------------------
+
+Experiment Number: 19
+Parameters Chosen:
+	Number of Layers: 3
+	Number of Input Neurons: 1
+	Number of Hidden Recurrent Neurons: 5
+	Number of Output Neurons: 1
+	Activation Function: relu
+	Loss Function: Mean Square Error
+	Learning Rate: 0.015
+	Number of epochs: 10
+	Number of time steps: 10
+Results:
+	Train/Test Split: 20.0% : 80.0%
+	Length of train: 9048
+	Length of test: 36194
+	Loss of Testing before Training: 0.44609242628547674
+	Loss of Training: 0.032663841386093746
+	Loss of Testing: 0.033120194820663085
+------------------------------------------------------------------------------------------
+
+Experiment Number: 20
+Parameters Chosen:
+	Number of Layers: 3
+	Number of Input Neurons: 1
+	Number of Hidden Recurrent Neurons: 20
+	Number of Output Neurons: 1
+	Activation Function: relu
+	Loss Function: Mean Square Error
+	Learning Rate: 0.015
+	Number of epochs: 10
+	Number of time steps: 10
+Results:
+	Train/Test Split: 20.0% : 80.0%
+	Length of train: 9048
+	Length of test: 36194
+	Loss of Testing before Training: 0.24703520347491792
+	Loss of Training: 0.03367292528304849
+	Loss of Testing: 0.03218510565461237
+------------------------------------------------------------------------------------------
+
+Experiment Number: 21
+Parameters Chosen:
+	Number of Layers: 3
+	Number of Input Neurons: 1
+	Number of Hidden Recurrent Neurons: 50
+	Number of Output Neurons: 1
+	Activation Function: relu
+	Loss Function: Mean Square Error
+	Learning Rate: 0.015
+	Number of epochs: 10
+	Number of time steps: 10
+Results:
+	Train/Test Split: 20.0% : 80.0%
+	Length of train: 9048
+	Length of test: 36194
+	Loss of Testing before Training: 0.7800082729624335
+	Loss of Training: 0.034036942663292026
+	Loss of Testing: 0.03254553944214097
+------------------------------------------------------------------------------------------
+
+Experiment Number: 22
+Parameters Chosen:
+	Number of Layers: 3
+	Number of Input Neurons: 1
+	Number of Hidden Recurrent Neurons: 5
+	Number of Output Neurons: 1
+	Activation Function: relu
+	Loss Function: Mean Square Error
+	Learning Rate: 0.001
+	Number of epochs: 10
+	Number of time steps: 10
+Results:
+	Train/Test Split: 20.0% : 80.0%
+	Length of train: 9048
+	Length of test: 36194
+	Loss of Testing before Training: 0.3415750459319502
+	Loss of Training: 0.0038242484298126604
+	Loss of Testing: 0.0009201584150213499
+------------------------------------------------------------------------------------------
+
+Experiment Number: 23
+Parameters Chosen:
+	Number of Layers: 3
+	Number of Input Neurons: 1
+	Number of Hidden Recurrent Neurons: 20
+	Number of Output Neurons: 1
+	Activation Function: relu
+	Loss Function: Mean Square Error
+	Learning Rate: 0.001
+	Number of epochs: 10
+	Number of time steps: 10
+Results:
+	Train/Test Split: 20.0% : 80.0%
+	Length of train: 9048
+	Length of test: 36194
+	Loss of Testing before Training: 0.3314114843248294
+	Loss of Training: 0.024302443587881705
+	Loss of Testing: 0.0010016978660052501
+------------------------------------------------------------------------------------------
+
+Experiment Number: 24
+Parameters Chosen:
+	Number of Layers: 3
+	Number of Input Neurons: 1
+	Number of Hidden Recurrent Neurons: 50
+	Number of Output Neurons: 1
+	Activation Function: relu
+	Loss Function: Mean Square Error
+	Learning Rate: 0.001
+	Number of epochs: 10
+	Number of time steps: 10
+Results:
+	Train/Test Split: 20.0% : 80.0%
+	Length of train: 9048
+	Length of test: 36194
+	Loss of Testing before Training: 0.39732846317789944
+	Loss of Training: 0.006545756320280688
+	Loss of Testing: 0.0008448218727144452
+------------------------------------------------------------------------------------------
+
+Experiment Number: 25
+Parameters Chosen:
+	Number of Layers: 3
+	Number of Input Neurons: 1
+	Number of Hidden Recurrent Neurons: 5
+	Number of Output Neurons: 1
+	Activation Function: relu
+	Loss Function: Mean Square Error
+	Learning Rate: 0.01
+	Number of epochs: 10
+	Number of time steps: 10
+Results:
+	Train/Test Split: 20.0% : 80.0%
+	Length of train: 9048
+	Length of test: 36194
+	Loss of Testing before Training: 0.17849620437891794
+	Loss of Training: 0.03241612905488375
+	Loss of Testing: 0.03236272677130598
+------------------------------------------------------------------------------------------
+
+Experiment Number: 26
+Parameters Chosen:
+	Number of Layers: 3
+	Number of Input Neurons: 1
+	Number of Hidden Recurrent Neurons: 20
+	Number of Output Neurons: 1
+	Activation Function: relu
+	Loss Function: Mean Square Error
+	Learning Rate: 0.01
+	Number of epochs: 10
+	Number of time steps: 10
+Results:
+	Train/Test Split: 20.0% : 80.0%
+	Length of train: 9048
+	Length of test: 36194
+	Loss of Testing before Training: 0.38295824484499746
+	Loss of Training: 0.03572429626895458
+	Loss of Testing: 0.03214655860709967
+------------------------------------------------------------------------------------------
+
+Experiment Number: 27
+Parameters Chosen:
+	Number of Layers: 3
+	Number of Input Neurons: 1
+	Number of Hidden Recurrent Neurons: 50
+	Number of Output Neurons: 1
+	Activation Function: relu
+	Loss Function: Mean Square Error
+	Learning Rate: 0.01
+	Number of epochs: 10
+	Number of time steps: 10
+Results:
+	Train/Test Split: 20.0% : 80.0%
+	Length of train: 9048
+	Length of test: 36194
+	Loss of Testing before Training: 0.5190001760000343
+	Loss of Training: 0.0021200999731937386
+	Loss of Testing: 0.0011042584034779727
+------------------------------------------------------------------------------------------
+
+Experiment Number: 1
+Parameters Chosen:
+	Number of Layers: 3
+	Number of Input Neurons: 1
+	Number of Hidden Recurrent Neurons: 5
+	Number of Output Neurons: 1
+	Activation Function: sigmoid
+	Loss Function: Mean Square Error
+	Learning Rate: 0.01
+	Number of epochs: 10
+	Number of time steps: 10
+Results:
+	Train/Test Split: 20.0% : 80.0%
+	Length of train: 9048
+	Length of test: 36194
+	Loss of Testing before Training: 0.7267697484699133
+	Loss of Training: 0.002669164507995238
+	Loss of Testing: 0.0007053294492477104
+------------------------------------------------------------------------------------------
+
+Experiment Number: 1
+Parameters Chosen:
+	Number of Layers: 3
+	Number of Input Neurons: 1
+	Number of Hidden Recurrent Neurons: 20
+	Number of Output Neurons: 1
+	Activation Function: sigmoid
+	Loss Function: Mean Square Error
+	Learning Rate: 0.015
+	Number of epochs: 10
+	Number of time steps: 10
+Results:
+	Train/Test Split: 20.0% : 80.0%
+	Length of train: 9048
+	Length of test: 36194
+	Loss of Testing before Training: 0.19240018904471926
+	Loss of Training: 0.0016812402863769012
+	Loss of Testing: 0.0006592620474138701
+------------------------------------------------------------------------------------------
+
